@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/btu-home/static/css/main.16026b4e.css",
+    "main.js": "/btu-home/static/js/main.5b077969.js",
+    "static/js/787.ab90d317.chunk.js": "/btu-home/static/js/787.ab90d317.chunk.js",
+    "index.html": "/btu-home/index.html",
+    "main.16026b4e.css.map": "/btu-home/static/css/main.16026b4e.css.map",
+    "main.5b077969.js.map": "/btu-home/static/js/main.5b077969.js.map",
+    "787.ab90d317.chunk.js.map": "/btu-home/static/js/787.ab90d317.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16026b4e.css",
+    "static/js/main.5b077969.js"
+  ]
+}
